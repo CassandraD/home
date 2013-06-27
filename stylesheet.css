@@ -1,0 +1,126 @@
+#background {
+  color: #000000;
+}
+#logo {
+    text-align: center;
+    margin-top: 17px;
+    padding-top: 25px;
+} 
+#navigation-background {
+    width:960px;
+    height: 40px;
+    background-color: #474e57;
+    margin:-5px 187px;
+}
+#navigation-background p {
+    margin-top: 0px;
+    font-size: 30px;
+    font-family: Copperplate Gothic Light, Garamond;
+    font-weight:bold;
+    color: #000000;
+    /*background-color: black;*/
+    height: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline-block;
+    position: absolute;
+}
+#home {
+    padding-top: 1px;
+    margin-left: 2px;
+    padding-bottom: 19px;
+    text-align:center;
+}
+#about {
+    padding-top: 1px;
+    margin-left: 115px;
+    padding-bottom: 19px;
+    text-align:center;
+}
+#writing {
+    margin-left: 235px;
+    text-align: center;
+    padding-top: 1px;
+    padding-bottom: 19px;
+}
+#editing {
+    padding-top: 1px;
+    margin-left: 380px;
+    padding-bottom: 19px;
+    text-align: center;
+}
+#design {
+    padding-top: 1px;
+    margin-left: 519px;
+    padding-bottom: 19px;
+    text-align:center;
+}
+#resume {
+    padding-top: 1px;
+    margin-left: 650px;
+    padding-bottom: 19px;
+    text-align:center
+}
+#contact {
+    padding-top: 1px;
+    margin-left: 790px;
+    padding-bottom: 19px;
+    text-align:center
+}
+a.navig-link {
+    text-decoration: none;
+    color: black;
+}
+a:hover.navig-link {
+    color: #BA62D9;
+}
+.intro {
+    width: 960px;
+    color:#05BAEE;
+    font-size: 30px;
+    font-family:Copperplate Gothic Light;
+    text-align: center;
+    margin-left:200px;
+    font-weight:bold;
+}
+.first {
+    margin:80px 350px 80px 450px;
+    width: 456px;
+    font-size: 16px;
+    font-family:Century Gothic;
+    text-align: center;
+    color:#663A50;
+}
+#footer {
+    width:960px;
+    height: 40px;
+    background-color: #474e57;
+    margin: auto;
+    padding-bottom:0px
+}
+table {
+    vertical-align:bottom;
+    margin-top: 0px;
+    font-size: 15px;
+    font-family: Copperplate Gothic Light, Garamond;
+    font-weight:bold;
+    color: #000000;
+    width:100%;
+    padding-left: 140px;
+    padding-right: 10px;
+    display:block;
+    position: absolute;
+}
+#footer-contact {
+    vertical-align:bottom;
+    margin-top: 0px;
+    font-size: 15px;
+    font-family: Copperplate Gothic Light, Garamond;
+    font-weight:bold;
+    color: #000000;
+    width:100%;
+    padding-left: 540px;
+    padding-right: 10px;
+    display:block;
+    position: absolute;
+}
